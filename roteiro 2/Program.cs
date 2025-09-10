@@ -1,34 +1,4 @@
-﻿
-/*using System;
-
-public class Produto
-{
-    private string Nome;
-    private double Preco;
-
-    public string nome
-    {
-        get { return Nome; }
-        set { nome = value; }
-    }
-
-    public double preco
-    {
-        get { return Preco; }
-        set
-        {
-            if (value < 0)
-            {
-                Console.WriteLine("Saldo Negativo!");
-                Preco = 0; // ou você pode lançar um erro aqui
-            }
-            else
-            {
-                Preco = value;
-            }
-        }
-    }
-    public Produto(string nome, double preco)
+/* public Produto(string nome, double preco)
     {
         Nome = nome;
         Preco = preco;
@@ -51,6 +21,13 @@ class Rodar
 
     }
 }*/
+
+
+
+
+
+
+
 
 /*public class Carro
 {
@@ -122,6 +99,13 @@ class Rodar
         Console.ReadLine(); // mantém console aberto
     }
 }*/
+
+
+
+
+
+
+
 
 /*using System;
 
